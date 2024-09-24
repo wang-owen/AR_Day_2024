@@ -67,6 +67,7 @@ all levels of the game for every agent class listed in this file. Agents must be
 fails a level, the remaining levels will not be run
 - [TIP] To test your code faster, modify the agent list file to only have your agent
 - [TIP] To test one level at a time, comment out unwanted levels in the GAME_LEVELS variable in src/GameConfig.py
+- [TIP] To test your code faster, you can increase the FPS limit in src/GameConfig.py
 
 
 ### Game Scoring
